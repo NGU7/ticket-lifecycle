@@ -22,9 +22,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Intake and process an end user-reported issue
 - Assignment and Communication
-- Working the Issue
+- Working the Issues to completion
 - Resolution
 
 <h2>Lifecycle Stages</h2>
