@@ -41,9 +41,9 @@ Once the ticket is assigned to the department, someone in the department acquire
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="list of closed tickets after completion" src="https://github.com/user-attachments/assets/c195c920-8012-4ed6-8505-6dd2f1bc441b" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When the tickets are completed they go to the "closed" section where admins can review them if needed. 
 </p>
 <br />
