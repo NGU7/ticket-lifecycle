@@ -33,10 +33,10 @@ This is a ticket from an end user about the online banking system failing. As it
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="final report on banking sys" src="https://github.com/user-attachments/assets/57013e00-6606-42e8-9da0-6a9e4e371f33" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the ticket is assigned to the department, someone in the department acquires the ticket. After someone resolves the ticket, they site the problem and how they plan to fix it allowing others to understand what was done to resolve it. I played all these roles to better understand the flow of the ticket process.
 </p>
 <br />
 
